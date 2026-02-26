@@ -29,7 +29,7 @@ Watch this demonstration of playing **World of Warcraft** completely hands-free 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/husnytarik/PhantomCast]
+   git clone [https://github.com/husnytarik/PhantomCast)
    cd phantomcast
    ```
 
@@ -108,7 +108,7 @@ Sadece kamera etkileşimleri kullanılarak, klavyeye dokunmadan **World of Warcr
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone [https://github.com/husnytarik/PhantomCast]
+   git clone [https://github.com/husnytarik/PhantomCast)
    cd phantomcast
    ```
 
