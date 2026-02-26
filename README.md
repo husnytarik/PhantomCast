@@ -29,8 +29,8 @@ Watch this demonstration of playing **World of Warcraft** completely hands-free 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/husnytarik/PhantomCast
-   cd phantomcast
+   git clone [https://github.com/husnytarik/PhantomCast.git](https://github.com/husnytarik/PhantomCast.git)
+   cd PhantomCast
    ```
 
 2. **Create a virtual environment (Recommended):**
@@ -108,8 +108,8 @@ Sadece kamera etkileşimleri kullanılarak, klavyeye dokunmadan **World of Warcr
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone https://github.com/husnytarik/PhantomCast
-   cd phantomcast
+   git clone [https://github.com/husnytarik/PhantomCast.git](https://github.com/husnytarik/PhantomCast.git)
+   cd PhantomCast
    ```
 
 2. **Sanal ortam (Virtual Environment) oluşturun (Önerilir):**
